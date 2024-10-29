@@ -6,14 +6,14 @@ on:
       - main
 
 jobs:
-  update:
+  update_submodule_into_parent_repo:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
         with: 
           repository: euc-dev/euc-dev.github.io
-          token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
+          token: ${{ secrets.UPDSUBMODULES_PAT }}
           submodules: true
 
       - name: Pull & update submodules recursively
