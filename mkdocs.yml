@@ -146,6 +146,7 @@ markdown_extensions:
 
 # Navigation
 nav:
+  - ../apis/
   - index.md
 
 

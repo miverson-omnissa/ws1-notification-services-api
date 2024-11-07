@@ -5,6 +5,7 @@ hide:
   #- navigation
   - toc
 ---
+![Workspace ONE Hub Services](../../../assets/logos/Hub-Services-v-lm.png){ align=right }
 
 The Workspace ONE Notification Service API documentation describes how to utilise the Workspace ONE Notification Service REST API to query and configure Workspace ONE Access. 
 
