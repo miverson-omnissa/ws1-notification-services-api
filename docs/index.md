@@ -11,6 +11,6 @@ The Workspace ONE Notification Service API documentation describes how to utilis
 
 | Name | Version | Size |
 | --- | --- | --- |
-| [Workspace ONE Notification Service API Guide](Notification_Guide_v4.pdf) | v4 | 1.2 MB |
+| [Workspace ONE Notification Service API Guide](Notification_Guide_v5.pdf) | v4 | 1.2 MB |
 
 <swagger-ui src="ws1notifications-api.json"/>

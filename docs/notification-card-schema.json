@@ -1,5 +1,5 @@
 {
-  "title": "Notification card schema for Intelligent Hub notifications (manually extracted from array-response schema at https://developer.omnissa.com/ws1-notification-services-apis/herocard-response-schema.json)",
+  "title": "Notification card schema for Intelligent Hub notifications",
 
   "type": "object",
   "properties":     {
